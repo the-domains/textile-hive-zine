@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Textile Hive Zine]]></title>
+        <description><![CDATA[Textile Hive Zine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 19:11:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Video: Jacquard weaving - Victoria and Albert Museum]]></title>
+            <description><![CDATA[<article><h1>Video: Jacquard weaving - Victoria and Albert Museum</h1><p>Before 1800, patterns had to be picked out by hand. In 1801 Joseph Jacquard invented a revolutionary new loom attachment that automated how patterns were woven. This video shows how it works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b870c81e3961bfc982d35b4fab983e6e8956ae8.jpg"></article>]]></description>
+            <link>http://www.vam.ac.uk/content/videos/j/video-jacquard-weaving/</link>
+            <guid isPermaLink="false">36132646-e7ef-4536-bee6-00a34ba73dc1</guid>
+            <pubDate>Mon, 04 Jan 2016 19:11:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
