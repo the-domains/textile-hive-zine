@@ -1,6 +1,6 @@
 name: Textile Hive Zine
 favicon: null
-layout_spectrum: 0.14516399754211307
+layout_spectrum: 0.26109
 typography_spectrum: 0.5891316859051585
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5b6387'
     - '#d5d7e1'
   brandStrength: 1
-  lightness: 0.8768667564727366
-  saturation: 0.933492373675108
-  rhythmicContrast: 0.8513121455907822
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
