@@ -1,0 +1,28 @@
+name: Textile Hive Zine
+favicon: null
+layout_spectrum: 0.14516399754211307
+typography_spectrum: 0.5891316859051585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#061041'
+    - '#ffffff'
+    - '#afb2c4'
+    - '#5b6387'
+    - '#d5d7e1'
+  brandStrength: 1
+  lightness: 0.8768667564727366
+  saturation: 0.933492373675108
+  rhythmicContrast: 0.8513121455907822
+purpose: []
